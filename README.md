@@ -1,3 +1,7 @@
+# A Continuation Of TheOnlyWayOut Also Known As TOWO-'s Zalith Launcher Reborn Project
+
+
+
 <div align="center">
     <img width="256" src="ZalithLauncher/src/main/res/drawable/app_name_title.png"></img>
 </div>
