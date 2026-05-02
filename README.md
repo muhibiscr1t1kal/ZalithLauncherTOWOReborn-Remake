@@ -1,4 +1,4 @@
-# A Continuation Of TheOnlyWayOut Also Known As TOWO-'s Zalith Launcher Reborn Project
+# A Continuation Of Skilled Developer And YouTuber @TheOnlyWayOut Also Known As TOWO-'s Zalith Launcher Fork "Zalith Reborn" Project
 
 
 
