@@ -1,3 +1,8 @@
+# THE PROJECT IS OUTDATED NOW! USE "ZalithCake-Lotus" For Latest Version With Offline Support!
+https://github.com/cheesakeyk/ZalithCake-Lotus
+
+
+
 # A Continuation Of Skilled Developer And YouTuber @TheOnlyWayOut Also Known As TOWO-'s Zalith Launcher Fork "Zalith Reborn" Project
 
 
